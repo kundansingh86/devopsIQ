@@ -1,2 +1,2 @@
-# devopsIQ
+# DevOpsIQ
 Sample Demo
